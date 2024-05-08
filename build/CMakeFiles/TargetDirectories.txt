@@ -1,0 +1,6 @@
+D:/side/zig-vcpkg-cross/build/CMakeFiles/fibo.dir
+D:/side/zig-vcpkg-cross/build/CMakeFiles/edit_cache.dir
+D:/side/zig-vcpkg-cross/build/CMakeFiles/rebuild_cache.dir
+D:/side/zig-vcpkg-cross/build/CMakeFiles/list_install_components.dir
+D:/side/zig-vcpkg-cross/build/CMakeFiles/install.dir
+D:/side/zig-vcpkg-cross/build/CMakeFiles/install/local.dir

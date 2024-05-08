@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/side/zig-vcpkg-cross/build",
+  "command": "D:\\zig\\zig.exe c++ -target x86_64-windows-gnu -DFMT_HEADER_ONLY=1 -Dfibo_EXPORTS -ID:/side/zig-vcpkg-cross/include -isystem D:/vcpkg/installed/zig-windows/include -o CMakeFiles\\fibo.dir\\src\\main.obj -c D:\\side\\zig-vcpkg-cross\\src\\main.cpp",
+  "file": "D:\\side\\zig-vcpkg-cross\\src\\main.cpp",
+  "output": "CMakeFiles\\fibo.dir\\src\\main.obj"
+}
+]

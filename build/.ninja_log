@@ -1,0 +1,5 @@
+# ninja log v6
+19	5019	7368933095874847	CMakeFiles/fibo.dir/src/main.obj	6bc2af5178a53f1b
+5031	6116	7368933150810716	bin/libfibo.dll	e722aa8e1dd2dd6c
+5031	6116	7368933150810716	lib/libfibo.dll.a	e722aa8e1dd2dd6c
+6118	6202	7368933156971923	CMakeFiles/install.util	de16be65c8a8ef2b
