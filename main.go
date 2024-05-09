@@ -5,6 +5,7 @@ package main
 #cgo LDFLAGS: -L./build/lib -lfibo
 #include <fibo.h>
 */
+
 import "C"
 import "fmt"
 
